@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, my name is Leonardo! 👋
 
-<!--
+
 ## Main Stacks
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wo
 
 </div>
 
-<!--
+
 **LeoSantini/LeoSantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
