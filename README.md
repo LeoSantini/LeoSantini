@@ -6,7 +6,7 @@
 
 ## About me
 
-- 💻 I'm a full stack web development and production engineer
+- 💻 I'm a full stack web developer and production engineer
 - 📚 I'm currently learning Next.js🚀
 - ⚡ Fun fact: I'm passionate about the financial market and e-sports
 
