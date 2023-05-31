@@ -8,7 +8,7 @@
 
 - 💻 I'm a full stack web developer and production engineer
 - 🔭 I'm currently searching for new opportunities!
-- 📚 I'm currently learning Next.js🚀
+- 📚 I'm currently learning Python, Flutter🚀
 - ⚡ Fun fact: I'm passionate about the financial market and e-sports
 
 ## :floppy_disk: Main Stacks
