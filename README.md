@@ -11,7 +11,7 @@
 - 📚 I'm currently learning Python, Flutter🚀
 - ⚡ Fun fact: I'm passionate about the financial market and e-sports
 
-## :floppy_disk: Main Stacks
+## :floppy_disk: Stacks
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
